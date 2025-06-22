@@ -1,0 +1,4 @@
+358894 --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=390571, si_uid=0} ---
+359002 +++ exited with 0 +++
+358918 +++ exited with 0 +++
+358894 +++ exited with 0 +++

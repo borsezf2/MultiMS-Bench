@@ -1,0 +1,4 @@
+394047 --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=424580, si_uid=0} ---
+394141 +++ exited with 0 +++
+394075 +++ exited with 0 +++
+394047 +++ exited with 0 +++

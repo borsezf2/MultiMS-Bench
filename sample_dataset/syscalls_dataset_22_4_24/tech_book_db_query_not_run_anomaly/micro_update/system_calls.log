@@ -1,0 +1,4 @@
+425139 --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=450565, si_uid=0} ---
+425245 +++ exited with 0 +++
+425185 +++ exited with 0 +++
+425139 +++ exited with 0 +++
